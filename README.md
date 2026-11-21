@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, ex
 
 ## 🚀 Live Demo
 
-🔗 [View My Portfolio](https://yourusername.github.io/my-portfolio/)
+🔗 [View My Portfolio](https://github.com/sandhya2829/MY_PORTFOLIO)
 
 ## 👨‍💻 About Me
 
@@ -35,7 +35,8 @@ my-portfolio/
 ```
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1714e74e-a8eb-4b5d-af7b-076131674786" />
+<img width="1920" height="858" alt="Screenshot (370)" src="https://github.com/user-attachments/assets/b0fab4a6-da4c-4dd6-b34a-5cb180c912cd" />
+
 
 
 ## 📬 Contact
