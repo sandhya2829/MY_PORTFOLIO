@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, ex
 
 ## 🚀 Live Demo
 
-🔗 [View My Portfolio](https://github.com/sandhya2829/MY_PORTFOLIO)
+🔗 [View My Portfolio](https://resilient-bombolone-dbadc4.netlify.app)
 
 ## 👨‍💻 About Me
 
